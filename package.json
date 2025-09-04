@@ -1,0 +1,31 @@
+{
+  "name": "my-project-backend",
+  "version": "1.0.0",
+  "description": "This is a project management application, its my first backend project",
+  "keywords": [
+    "placement",
+    "purpose",
+    "vivek",
+    "full",
+    "stack",
+    "developer"
+  ],
+  "homepage": "https://github.com/BindVivekKumar/MY-Project-Backend#readme",
+  "bugs": {
+    "url": "https://github.com/BindVivekKumar/MY-Project-Backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BindVivekKumar/MY-Project-Backend.git"
+  },
+  "license": "ISC",
+  "author": "Bind Vivek Kumar Bind",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
